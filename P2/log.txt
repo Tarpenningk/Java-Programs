@@ -1,0 +1,24 @@
+Buildfile: F:\Program 2 -2120\build.xml
+
+prepare:
+   [delete] Deleting directory F:\Program 2 -2120\build
+    [mkdir] Created dir: F:\Program 2 -2120\build
+
+build:
+    [javac] Compiling 43 source files to F:\Program 2 -2120\build
+    [javac] F:\Program 2 -2120\src\pizza\Hawaiian.java:10: error: cannot find symbol
+    [javac] 		size = super.getSize;
+    [javac] 		            ^
+    [javac]   symbol: variable getSize
+    [javac] F:\Program 2 -2120\src\pizza\MeatLover.java:10: error: cannot find symbol
+    [javac] 		size = super.getSize;
+    [javac] 		            ^
+    [javac]   symbol: variable getSize
+    [javac] F:\Program 2 -2120\src\pizza\PizzaDriver.java:88: error: incompatible types: possible lossy conversion from double to int
+    [javac] 		int cost = dec_pizza.pizzaCost();
+    [javac] 		                              ^
+    [javac] F:\Program 2 -2120\src\pizza\VeggieLover.java:10: error: cannot find symbol
+    [javac] 		size = super.getSize;
+    [javac] 		            ^
+    [javac]   symbol: variable getSize
+    [javac] 4 errors
