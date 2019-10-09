@@ -2,8 +2,6 @@ package util;
 
 public class QueueLinked<T>
 {
-
-  // circular references
   private Node<T> tail;
   private int size;
   
@@ -15,7 +13,7 @@ public class QueueLinked<T>
   
   public boolean isEmpty() 
   {
-    return tail == null;
+    return (tail == null);
   } 
 
   public int size()
@@ -94,4 +92,4 @@ public class QueueLinked<T>
     }  
   } 
    
-} 
+}

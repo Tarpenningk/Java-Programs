@@ -37,5 +37,4 @@ public class Node<T>
   {
     return next;
   }
-
 }

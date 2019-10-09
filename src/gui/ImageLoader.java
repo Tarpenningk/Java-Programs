@@ -38,27 +38,18 @@ public class ImageLoader
       return img;
    }
    
-   //assumes white is the transparent color
-   public Image getTransparencyImage(String file_name)
+   public Image getFilteredImage(Image img, ImageFilter img_filter)
    {
-      int len = file_name.length();
-      Image img = null;   
-
-      try
-      {
-		  BufferedImage bi = ImageIO.read(new File(file_name));
-			//BufferedImage bi = ImageIO.read(getClass().getResource(file));
-			img = toolkit.createImage(bi.getSource());
-		 
-			ImageFilter filter = new TransparencyFilter(Color.WHITE); 
-			FilteredImageSource fis = new FilteredImageSource(img.getSource(), filter);
-			return toolkit.createImage(fis);
-      } 
-      catch (IOException e){}
-      
-      return img;
+		FilteredImageSource fis = new FilteredImageSource(img.getSource(), img_filter);
+		return toolkit.createImage(fis);
    }
    
+   public Image getTransparentImage(Image img, Color color)
+   {
+	    ImageFilter img_filter = new TransparencyFilter(color);
+		FilteredImageSource fis = new FilteredImageSource(img.getSource(), img_filter);
+		return toolkit.createImage(fis);
+   }
 }
 
 class TransparencyFilter extends RGBImageFilter

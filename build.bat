@@ -1,7 +1,14 @@
 @echo off
 cls
 
-set MAIN_PATH="%~dp0.."
-set PATH=%MAIN_PATH%\Java\bin;%MAIN_PATH%\Java\ant-1.9.6\bin;
+set DRIVE_LETTER=%1:
 
-ant run-command-line -Ddrive-letter=%MAIN_PATH%
+set PLAYER=%2
+
+set PATH=%DRIVE_LETTER%\Java\bin;%DRIVE_LETTER%\Java\ant-1.9.6\bin;c:\Windows
+
+ant run -Ddrive-letter=%DRIVE_LETTER% -Dplayer=%PLAYER%
+
+::ant run -Ddrive-letter=%DRIVE_LETTER%
+
+

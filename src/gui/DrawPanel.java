@@ -12,7 +12,7 @@ public class DrawPanel extends JPanel implements MouseListener, KeyListener
 
    public DrawPanel()
    {
-      pict = null;
+      pict = new NullDrawable();
       addMouseListener(this);
       addKeyListener(this);  //allow the user to change strategies at any time
    }
@@ -38,10 +38,10 @@ public class DrawPanel extends JPanel implements MouseListener, KeyListener
       gOff.setColor(Color.white);
       gOff.fillRect(0, 0, width, height);
 
-      if (pict != null)
-      {
+      //if (pict != null)
+      //{
          pict.draw(gOff, width, height);
-      }
+      //}
       g.drawImage(offScreenBuffer, 0, 0, null);  //copy the offScreenImage to the panel
       requestFocus();  //needed to get the key presses to work
    }
