@@ -1,0 +1,672 @@
+Buildfile: F:\Program1\build.xml
+
+clean:
+   [delete] Deleting directory F:\Program1\build
+
+prepare:
+    [mkdir] Created dir: F:\Program1\build
+
+build:
+    [javac] Compiling 23 source files to F:\Program1\build
+    [javac] Note: F:\Program1\src\pqsort\PQSort.java uses unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+run:
+     [java] Sorted by Binary Search Tree: 
+     [java] (N)Utopia
+     [java] ...And Death Said Live
+     [java] 1-800 Vindication
+     [java] 11 Dreams
+     [java] 12 Gauge
+     [java] A Celebration of Guilt
+     [java] A Maze of Recycled Creeds
+     [java] A Perfect Absolution
+     [java] A Sylphe's Ascension
+     [java] A Velvet Creation
+     [java] A Virgin and a Whore
+     [java] Abducted
+     [java] Above The Weeping World
+     [java] Absence
+     [java] Absu
+     [java] Abzu
+     [java] Accident of Birth
+     [java] Across The Dark
+     [java] Aeons Black
+     [java] Against The Elements
+     [java] An Epic Defiance
+     [java] Anatomy of Life
+     [java] Angelic Encounters
+     [java] Anger, Hate And Fury
+     [java] Annihilation of the Wicked
+     [java] Anthems of Rebellion
+     [java] Antithesis
+     [java] Apocalyptic
+     [java] Archetype of Chaos
+     [java] Architecture of Lust
+     [java] Aren't You Dead Yet
+     [java] As Night Conquers Day
+     [java] Ascending Hate
+     [java] Asylon
+     [java] At Dusk And Forever
+     [java] At War With Reality
+     [java] At the Gate of Sethu
+     [java] Battlecry Under A Winter Sun
+     [java] Before the Bleeding Sun
+     [java] Beyond
+     [java] Beyond Redemption
+     [java] Black Earth
+     [java] Black Seeds of Vengeance
+     [java] Blood Mantra
+     [java] Burn Me Wicked
+     [java] Burning Bridges
+     [java] Burnt Offerings
+     [java] Cabinet
+     [java] Central Tunnel Eight
+     [java] Chaotic Beauty
+     [java] Character
+     [java] Children of the Dark Waters
+     [java] Collateral Defect
+     [java] Communicate The Storms
+     [java] Concealed
+     [java] Construct
+     [java] Contra Rationem
+     [java] Corroding From Inside
+     [java] Cosmogenesis
+     [java] Crogacht
+     [java] Crossing The Rubicon
+     [java] Damage Done
+     [java] Dark Saga
+     [java] Darkened Silhouette
+     [java] Dawn of the 5th Era
+     [java] Day Into Night
+     [java] Daylight Deception
+     [java] Dead Calm Chaos
+     [java] Dead Harvest
+     [java] Deadlight
+     [java] Death Domination
+     [java] Death Metal
+     [java] Death...The Brutal Way
+     [java] Deathhammer
+     [java] Deathscapes of the Subconscious
+     [java] Deathspell Catharsis
+     [java] Deathstar Rising
+     [java] Deceiver of the Gods
+     [java] Defiant Imagination
+     [java] Demigod
+     [java] Descend Into Depravity
+     [java] Descent into Chaos
+     [java] Desideratum
+     [java] DetermiNation
+     [java] Diabolical Figures
+     [java] Diminishing Between Worlds
+     [java] Discordia
+     [java] Dismember
+     [java] Doomsday Machine
+     [java] Dreams of Death and Dismay
+     [java] Dreamweaver
+     [java] Earth.Revolt
+     [java] Eclipse
+     [java] Elements of the Infinite
+     [java] Embraced By The Absolute
+     [java] Emission Phase
+     [java] End of the Weakness
+     [java] Enemy Unbound
+     [java] Engineering the Void
+     [java] Engraved In Black
+     [java] Enki
+     [java] Ensiferum
+     [java] Entity
+     [java] Epic - The Poetry of War
+     [java] Epistemology
+     [java] Epitaph
+     [java] Esoteric
+     [java] Evangelion
+     [java] Everhaunting Past
+     [java] Fate of Norns
+     [java] Fiction
+     [java] Fire Up The Blades
+     [java] Flesh On Your Bones
+     [java] Flesh Power Dominion
+     [java] Follow The Reaper
+     [java] For The Revolution
+     [java] Forbidden Empathy
+     [java] Forget Me Not
+     [java] Formshifter
+     [java] Fragmentary Evidence
+     [java] Fragments of Death
+     [java] Fragments of Form And Function
+     [java] Frailty
+     [java] Framing Armageddon
+     [java] From Ashes
+     [java] From Your Grave
+     [java] Global Purification
+     [java] Harnessing Ruin
+     [java] Hatebreeder
+     [java] Haven
+     [java] He Who Shall Not Bleed
+     [java] Heartwork
+     [java] Heaven's Venom
+     [java] Hell Is Empty And All the Devils Are Here
+     [java] Hellucinate
+     [java] Hidden Hands of a Sadist Nation
+     [java] Highest Beauty
+     [java] Holographic Universe
+     [java] Holy Murder Masquerade
+     [java] Hope
+     [java] Horror Show
+     [java] Hypocrisy
+     [java] Ice Upon The Night
+     [java] If Emotions Still Burn
+     [java] Illusions of Grandeur
+     [java] In The Arms of Devastation
+     [java] In The Halls of Awaiting
+     [java] In Their Darkened Shrines
+     [java] In the Constellation of the Black Widow
+     [java] Incompleteness In Absence
+     [java] Incurso
+     [java] Inhumanity
+     [java] Inside The Machine
+     [java] Ithyphallic
+     [java] Justified Genocide
+     [java] Khaos Legions
+     [java] Killing Season
+     [java] Kingdom of Conspiracy
+     [java] Layers of Lies
+     [java] Leading Vision
+     [java] Leveling The Plane of Existence
+     [java] Liberation = Termination
+     [java] Liberation Through Hearing
+     [java] Lifetime Supply of Guilt
+     [java] Lunar Strain + Subterranean
+     [java] Majesty And Decay
+     [java] Manifesto
+     [java] Mask of Malice
+     [java] Mind Revolution
+     [java] Mirror of Retribution
+     [java] Mirrorworlds
+     [java] My Darkness
+     [java] My Passion Your Pain
+     [java] Nailwork
+     [java] Necrocracy
+     [java] NeuThrone
+     [java] Neurotripsicks
+     [java] New World Shadows
+     [java] Night of the Stormrider
+     [java] Night on Earth
+     [java] No Tolerance For Imperfection
+     [java] Noctambulant
+     [java] Of Breath and Bone
+     [java] Omnivium
+     [java] Once Sent From The Golden Hall
+     [java] One
+     [java] One for Sorrow
+     [java] Open The Casket, Enter The Garden
+     [java] Paradogma
+     [java] Passion
+     [java] Path of Fire
+     [java] Peace Was Never An Option
+     [java] Phobos And Deimos
+     [java] Phoenix Amongst the Ashes
+     [java] Pitch Black Effects
+     [java] Planetary Duality
+     [java] Polarity
+     [java] Portal of I
+     [java] Portals To Uphobia
+     [java] Prevail
+     [java] Process of a New Decline
+     [java] Programmed To Consume
+     [java] Projector
+     [java] Regicide
+     [java] Reign Supreme
+     [java] Remotecontrolled Scythe
+     [java] Retribution
+     [java] Riders of the Plague
+     [java] Rise of the Tyrant
+     [java] Saivon Lapsi
+     [java] Sedition
+     [java] Sense The Darkness
+     [java] Serenity in Fire
+     [java] Seventh Swamphony
+     [java] Shadows In The Light
+     [java] Shadows and Dust
+     [java] Shadows of the Dying Sun
+     [java] Since The Day It All Came Down
+     [java] Sindustries
+     [java] Sinner's Intuition
+     [java] Sinthetic
+     [java] Skydancer + of Chaos And Eternal Night
+     [java] Slaughter of the Soul
+     [java] So Sedated So Secure
+     [java] Sombre Gates
+     [java] Something Wicked This Way Comes
+     [java] Soulburner
+     [java] Soundscape of Silence
+     [java] Source
+     [java] Spectral
+     [java] Spirits And August Light
+     [java] Stained
+     [java] Starve For The Devil
+     [java] Steelbath Suicide
+     [java] Steps of Descent
+     [java] Sterling Black Icon
+     [java] Stigmata
+     [java] Still Life
+     [java] Stone's Reach
+     [java] Stuck On Snakes Way
+     [java] Suffocation
+     [java] Surgical Steel
+     [java] Surtur Rising
+     [java] Swamplord
+     [java] Swampsong
+     [java] Swansong
+     [java] Sweet Vengeance
+     [java] Symphony of Delusions
+     [java] Tales From The Thousand Lakes
+     [java] Temple of Knowledge
+     [java] Terminal Spirit Disease
+     [java] The Apostasy
+     [java] The Arrival
+     [java] The Art of Coming Apart
+     [java] The Art of Dying
+     [java] The Avenger
+     [java] The Black Waltz
+     [java] The Chemical Wedding
+     [java] The Conductors Departure
+     [java] The Creation
+     [java] The Crucible of Man
+     [java] The Crusher
+     [java] The Dividing Line
+     [java] The Dying Wonders of The World
+     [java] The Essence
+     [java] The Farthest Reaches
+     [java] The Fathomless Mastery
+     [java] The Forever Endeavor
+     [java] The Formation of Damnation
+     [java] The Frail Tide
+     [java] The Gallery
+     [java] The Gathering
+     [java] The Ghost
+     [java] The Glorious Burden
+     [java] The God That Never Was
+     [java] The Human Condition
+     [java] The Jester Race
+     [java] The Mark of the Judas
+     [java] The Mind's I
+     [java] The More You Suffer
+     [java] The Morning Never Came
+     [java] The Novella Reservior
+     [java] The Plague
+     [java] The Prestige
+     [java] The Prophecy
+     [java] The Red In The Sky Is Ours
+     [java] The Redshift
+     [java] The Thin Line Between
+     [java] The Unborn
+     [java] The Vile Conception
+     [java] They Will Return
+     [java] This Corroded Soul of Mine
+     [java] This Godless Endeavor
+     [java] This is Hell
+     [java] Those Whom The Gods Detest
+     [java] Thunderbeast
+     [java] Time I
+     [java] Timeless Departure
+     [java] To Those Who Walk Behind Us
+     [java] Towards The Twilight
+     [java] Traitors
+     [java] Trilateral Progression
+     [java] Twilight of the Thunder God
+     [java] Tyranny of Souls
+     [java] Under A Stone With No Inscription
+     [java] Undoing Ruin
+     [java] Unholy Cult
+     [java] United In Regret
+     [java] Vanitas
+     [java] Versus The World
+     [java] Virus
+     [java] Wages of Sin
+     [java] Waiting for the End to Come
+     [java] War Eternal
+     [java] War of Attrition
+     [java] We Are The Void
+     [java] Welcome To The Morbid Reich
+     [java] What Should Not Be Unearthed
+     [java] Whoracle
+     [java] Wintersun
+     [java] With Fear I Kiss The Burning Darkness
+     [java] With Oden On Our Side
+     [java] Wither
+     [java] Wolves
+     [java] Years In Waste
+     [java] 
+     [java] 
+     [java] 
+     [java] Sorted by Linked List: 
+     [java] (N)Utopia
+     [java] ...And Death Said Live
+     [java] 1-800 Vindication
+     [java] 11 Dreams
+     [java] 12 Gauge
+     [java] A Celebration of Guilt
+     [java] A Maze of Recycled Creeds
+     [java] A Perfect Absolution
+     [java] A Sylphe's Ascension
+     [java] A Velvet Creation
+     [java] A Virgin and a Whore
+     [java] Abducted
+     [java] Above The Weeping World
+     [java] Absence
+     [java] Absu
+     [java] Abzu
+     [java] Accident of Birth
+     [java] Across The Dark
+     [java] Aeons Black
+     [java] Against The Elements
+     [java] An Epic Defiance
+     [java] Anatomy of Life
+     [java] Angelic Encounters
+     [java] Anger, Hate And Fury
+     [java] Annihilation of the Wicked
+     [java] Anthems of Rebellion
+     [java] Antithesis
+     [java] Apocalyptic
+     [java] Archetype of Chaos
+     [java] Architecture of Lust
+     [java] Aren't You Dead Yet
+     [java] As Night Conquers Day
+     [java] Ascending Hate
+     [java] Asylon
+     [java] At Dusk And Forever
+     [java] At War With Reality
+     [java] At the Gate of Sethu
+     [java] Battlecry Under A Winter Sun
+     [java] Before the Bleeding Sun
+     [java] Beyond
+     [java] Beyond Redemption
+     [java] Black Earth
+     [java] Black Seeds of Vengeance
+     [java] Blood Mantra
+     [java] Burn Me Wicked
+     [java] Burning Bridges
+     [java] Burnt Offerings
+     [java] Cabinet
+     [java] Central Tunnel Eight
+     [java] Chaotic Beauty
+     [java] Character
+     [java] Children of the Dark Waters
+     [java] Collateral Defect
+     [java] Communicate The Storms
+     [java] Concealed
+     [java] Construct
+     [java] Contra Rationem
+     [java] Corroding From Inside
+     [java] Cosmogenesis
+     [java] Crogacht
+     [java] Crossing The Rubicon
+     [java] Damage Done
+     [java] Dark Saga
+     [java] Darkened Silhouette
+     [java] Dawn of the 5th Era
+     [java] Day Into Night
+     [java] Daylight Deception
+     [java] Dead Calm Chaos
+     [java] Dead Harvest
+     [java] Deadlight
+     [java] Death Domination
+     [java] Death Metal
+     [java] Death...The Brutal Way
+     [java] Deathhammer
+     [java] Deathscapes of the Subconscious
+     [java] Deathspell Catharsis
+     [java] Deathstar Rising
+     [java] Deceiver of the Gods
+     [java] Defiant Imagination
+     [java] Demigod
+     [java] Descend Into Depravity
+     [java] Descent into Chaos
+     [java] Desideratum
+     [java] DetermiNation
+     [java] Diabolical Figures
+     [java] Diminishing Between Worlds
+     [java] Discordia
+     [java] Dismember
+     [java] Doomsday Machine
+     [java] Dreams of Death and Dismay
+     [java] Dreamweaver
+     [java] Earth.Revolt
+     [java] Eclipse
+     [java] Elements of the Infinite
+     [java] Embraced By The Absolute
+     [java] Emission Phase
+     [java] End of the Weakness
+     [java] Enemy Unbound
+     [java] Engineering the Void
+     [java] Engraved In Black
+     [java] Enki
+     [java] Ensiferum
+     [java] Entity
+     [java] Epic - The Poetry of War
+     [java] Epistemology
+     [java] Epitaph
+     [java] Esoteric
+     [java] Evangelion
+     [java] Everhaunting Past
+     [java] Fate of Norns
+     [java] Fiction
+     [java] Fire Up The Blades
+     [java] Flesh On Your Bones
+     [java] Flesh Power Dominion
+     [java] Follow The Reaper
+     [java] For The Revolution
+     [java] Forbidden Empathy
+     [java] Forget Me Not
+     [java] Formshifter
+     [java] Fragmentary Evidence
+     [java] Fragments of Death
+     [java] Fragments of Form And Function
+     [java] Frailty
+     [java] Framing Armageddon
+     [java] From Ashes
+     [java] From Your Grave
+     [java] Global Purification
+     [java] Harnessing Ruin
+     [java] Hatebreeder
+     [java] Haven
+     [java] He Who Shall Not Bleed
+     [java] Heartwork
+     [java] Heaven's Venom
+     [java] Hell Is Empty And All the Devils Are Here
+     [java] Hellucinate
+     [java] Hidden Hands of a Sadist Nation
+     [java] Highest Beauty
+     [java] Holographic Universe
+     [java] Holy Murder Masquerade
+     [java] Hope
+     [java] Horror Show
+     [java] Hypocrisy
+     [java] Ice Upon The Night
+     [java] If Emotions Still Burn
+     [java] Illusions of Grandeur
+     [java] In The Arms of Devastation
+     [java] In The Halls of Awaiting
+     [java] In Their Darkened Shrines
+     [java] In the Constellation of the Black Widow
+     [java] Incompleteness In Absence
+     [java] Incurso
+     [java] Inhumanity
+     [java] Inside The Machine
+     [java] Ithyphallic
+     [java] Justified Genocide
+     [java] Khaos Legions
+     [java] Killing Season
+     [java] Kingdom of Conspiracy
+     [java] Layers of Lies
+     [java] Leading Vision
+     [java] Leveling The Plane of Existence
+     [java] Liberation = Termination
+     [java] Liberation Through Hearing
+     [java] Lifetime Supply of Guilt
+     [java] Lunar Strain + Subterranean
+     [java] Majesty And Decay
+     [java] Manifesto
+     [java] Mask of Malice
+     [java] Mind Revolution
+     [java] Mirror of Retribution
+     [java] Mirrorworlds
+     [java] My Darkness
+     [java] My Passion Your Pain
+     [java] Nailwork
+     [java] Necrocracy
+     [java] NeuThrone
+     [java] Neurotripsicks
+     [java] New World Shadows
+     [java] Night of the Stormrider
+     [java] Night on Earth
+     [java] No Tolerance For Imperfection
+     [java] Noctambulant
+     [java] Of Breath and Bone
+     [java] Omnivium
+     [java] Once Sent From The Golden Hall
+     [java] One
+     [java] One for Sorrow
+     [java] Open The Casket, Enter The Garden
+     [java] Paradogma
+     [java] Passion
+     [java] Path of Fire
+     [java] Peace Was Never An Option
+     [java] Phobos And Deimos
+     [java] Phoenix Amongst the Ashes
+     [java] Pitch Black Effects
+     [java] Planetary Duality
+     [java] Polarity
+     [java] Portal of I
+     [java] Portals To Uphobia
+     [java] Prevail
+     [java] Process of a New Decline
+     [java] Programmed To Consume
+     [java] Projector
+     [java] Regicide
+     [java] Reign Supreme
+     [java] Remotecontrolled Scythe
+     [java] Retribution
+     [java] Riders of the Plague
+     [java] Rise of the Tyrant
+     [java] Saivon Lapsi
+     [java] Sedition
+     [java] Sense The Darkness
+     [java] Serenity in Fire
+     [java] Seventh Swamphony
+     [java] Shadows In The Light
+     [java] Shadows and Dust
+     [java] Shadows of the Dying Sun
+     [java] Since The Day It All Came Down
+     [java] Sindustries
+     [java] Sinner's Intuition
+     [java] Sinthetic
+     [java] Skydancer + of Chaos And Eternal Night
+     [java] Slaughter of the Soul
+     [java] So Sedated So Secure
+     [java] Sombre Gates
+     [java] Something Wicked This Way Comes
+     [java] Soulburner
+     [java] Soundscape of Silence
+     [java] Source
+     [java] Spectral
+     [java] Spirits And August Light
+     [java] Stained
+     [java] Starve For The Devil
+     [java] Steelbath Suicide
+     [java] Steps of Descent
+     [java] Sterling Black Icon
+     [java] Stigmata
+     [java] Still Life
+     [java] Stone's Reach
+     [java] Stuck On Snakes Way
+     [java] Suffocation
+     [java] Surgical Steel
+     [java] Surtur Rising
+     [java] Swamplord
+     [java] Swampsong
+     [java] Swansong
+     [java] Sweet Vengeance
+     [java] Symphony of Delusions
+     [java] Tales From The Thousand Lakes
+     [java] Temple of Knowledge
+     [java] Terminal Spirit Disease
+     [java] The Apostasy
+     [java] The Arrival
+     [java] The Art of Coming Apart
+     [java] The Art of Dying
+     [java] The Avenger
+     [java] The Black Waltz
+     [java] The Chemical Wedding
+     [java] The Conductors Departure
+     [java] The Creation
+     [java] The Crucible of Man
+     [java] The Crusher
+     [java] The Dividing Line
+     [java] The Dying Wonders of The World
+     [java] The Essence
+     [java] The Farthest Reaches
+     [java] The Fathomless Mastery
+     [java] The Forever Endeavor
+     [java] The Formation of Damnation
+     [java] The Frail Tide
+     [java] The Gallery
+     [java] The Gathering
+     [java] The Ghost
+     [java] The Glorious Burden
+     [java] The God That Never Was
+     [java] The Human Condition
+     [java] The Jester Race
+     [java] The Mark of the Judas
+     [java] The Mind's I
+     [java] The More You Suffer
+     [java] The Morning Never Came
+     [java] The Novella Reservior
+     [java] The Plague
+     [java] The Prestige
+     [java] The Prophecy
+     [java] The Red In The Sky Is Ours
+     [java] The Redshift
+     [java] The Thin Line Between
+     [java] The Unborn
+     [java] The Vile Conception
+     [java] They Will Return
+     [java] This Corroded Soul of Mine
+     [java] This Godless Endeavor
+     [java] This is Hell
+     [java] Those Whom The Gods Detest
+     [java] Thunderbeast
+     [java] Time I
+     [java] Timeless Departure
+     [java] To Those Who Walk Behind Us
+     [java] Towards The Twilight
+     [java] Traitors
+     [java] Trilateral Progression
+     [java] Twilight of the Thunder God
+     [java] Tyranny of Souls
+     [java] Under A Stone With No Inscription
+     [java] Undoing Ruin
+     [java] Unholy Cult
+     [java] United In Regret
+     [java] Vanitas
+     [java] Versus The World
+     [java] Virus
+     [java] Wages of Sin
+     [java] Waiting for the End to Come
+     [java] War Eternal
+     [java] War of Attrition
+     [java] We Are The Void
+     [java] Welcome To The Morbid Reich
+     [java] What Should Not Be Unearthed
+     [java] Whoracle
+     [java] Wintersun
+     [java] With Fear I Kiss The Burning Darkness
+     [java] With Oden On Our Side
+     [java] Wither
+     [java] Wolves
+     [java] Years In Waste
+
+BUILD SUCCESSFUL
+Total time: 2 seconds

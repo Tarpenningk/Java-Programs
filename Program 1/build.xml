@@ -1,0 +1,38 @@
+
+<project name="Brass" default="help" basedir=".">
+
+<property name="build-directory" value="build"/>
+<property name="source-directory" value="src"/>
+
+   <path id="class-path">
+      <pathelement location="${build-directory}"/>
+   </path>
+
+   <target name="clean">
+      <delete dir="${build-directory}"/>
+   </target>
+
+   <target name="prepare">
+      <mkdir dir="${build-directory}"/>
+   </target>
+
+   <target name="build-generics" depends="clean,prepare">
+      <javac srcdir="${source-directory}" destdir="${build-directory}" includeantruntime="false">
+         <compilerarg value="-Xlint:unchecked" />
+         <classpath refid="class-path"/>
+      </javac>
+   </target>
+   
+   <target name="build" depends="clean,prepare">
+      <javac srcdir="${source-directory}" destdir="${build-directory}" includeantruntime="false">
+         <classpath refid="class-path"/>
+      </javac>
+   </target>
+
+   <target name="run" depends="build">
+      <java fork="true" failonerror="yes" classname="cds.CDSort">
+         <classpath refid="class-path"/>
+      </java>
+   </target>
+
+</project>
